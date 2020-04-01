@@ -1,0 +1,44 @@
+/* Clear defaults */
+
+/* Header classes */
+/* These classes should be applied according to visual hierarchy, not based on the semantic hierarchy in html */
+
+body {
+  font-family: "Source Sans Pro";
+}
+
+.heading-1-xl {
+  color: $blackish;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 48px;
+  margin-block-start: 0;
+  margin-block-end: 15px;
+}
+
+.heading-2-large {
+  color: $blackish;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  margin-block-start: 0;
+  margin-block-end: 10px;
+}
+
+.heading-3-medium {
+  color: $blackish;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  margin-block-start: 0;
+  margin-block-end: 10px;
+}
+
+.heading-4-small {
+  color: $blackish;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  margin-block-start: 0;
+  margin-block-end: 10px;
+}
